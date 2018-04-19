@@ -6,8 +6,11 @@
     "name": "Markus Schmidt",
     "email": "m.schmidt@makuko.de"
   },
+  "repository": "makuko/ts-doc",
+  "main": "index.js",
   "keywords": [
     "typescript",
     "documentation"
-  ]
+  ],
+  "license": "MIT"
 }
