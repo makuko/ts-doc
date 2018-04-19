@@ -1,6 +1,6 @@
 {
   "name": "tsman",
-  "description": "Manual generator for TypeScript applications",
+  "description": "Manual generator for TypeScript/JavaScript applications",
   "version": "0.0.0",
   "author": {
     "name": "Markus Schmidt",
@@ -10,6 +10,8 @@
   "main": "index.js",
   "keywords": [
     "typescript",
+    "javascript",
+    "manual",
     "documentation"
   ],
   "license": "MIT"

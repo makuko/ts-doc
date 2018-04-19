@@ -1,1 +1,1 @@
-#ts-doc
+#tsman
