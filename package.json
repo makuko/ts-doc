@@ -1,12 +1,12 @@
 {
-  "name": "ts-doc",
-  "description": "Doc generator for TypeScript applications",
+  "name": "tsman",
+  "description": "Manual generator for TypeScript applications",
   "version": "0.0.0",
   "author": {
     "name": "Markus Schmidt",
     "email": "m.schmidt@makuko.de"
   },
-  "repository": "makuko/ts-doc",
+  "repository": "makuko/tsman",
   "main": "index.js",
   "keywords": [
     "typescript",
