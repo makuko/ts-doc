@@ -1,0 +1,13 @@
+{
+  "name": "ts-doc",
+  "description": "Doc generator for TypeScript applications",
+  "version": "0.0.0",
+  "author": {
+    "name": "Markus Schmidt",
+    "email": "m.schmidt@makuko.de"
+  },
+  "keywords": [
+    "typescript",
+    "documentation"
+  ]
+}
